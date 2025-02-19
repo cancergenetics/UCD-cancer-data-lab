@@ -10,7 +10,7 @@ weight: 5
 superuser: true
 
 # Role/position
-role: Postgraduate Intern
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -24,6 +24,7 @@ interests:
   - bioinformatics
   - proteomics
   - bacterial infections
+  - paralogs
 
 
 # Social/Academic Networking

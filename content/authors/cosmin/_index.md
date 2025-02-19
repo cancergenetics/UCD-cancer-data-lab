@@ -52,12 +52,12 @@ social:
     link: https://www.tudose.science/
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Team Member
+user_groups: 
+  - Alumni
 ---
 
 Cosmin obtained his MSci in Genetics at the University of Nottingham, UK, in 2020. The same year started his Ph.D. in the CRT Genomics Data Science programme, co-funded by the European Commission’s Marie Sklodowska Curie Actions (MSCA) programme. He is now doing his Ph.D. in the Bond and Ryan groups in Systems Biology Ireland, UCD, working on defining molecular vulnerabilities in childhood leukaemia through biological network analysis. He is primarily interested in cancer genomics, childhood leukaemia, systems biology, and data visualization.
